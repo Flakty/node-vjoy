@@ -1,0 +1,18 @@
+{
+  "name": "node-vjoy",
+  "version": "0.0.1",
+  "description": "JS-friendly wrapper for the vJoy driver.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "vJoy"
+  ],
+  "author": "Flakty#7969",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "ref-struct": "^1.1.0"
+  }
+}
